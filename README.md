@@ -9,7 +9,7 @@ jQuery slider Eklentisi
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
-	<title>Vehbi Akdoğan Tab Eklentisi </title>
+	<title>Vehbi Akdoğan Slider Eklentisi </title>
 	<meta name="description" content="Vehbi Akdoğan Tab Eklentisi, jQuery tab eklentisi  " />
 	<meta name="keyword" content="Vehbi Akdoğan Tab Eklentisi, jQuery tab eklentisi   " />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
