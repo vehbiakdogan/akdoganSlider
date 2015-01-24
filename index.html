@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title>Vehbi Akdoğan Tab Eklentisi </title>
+	<meta name="description" content="Vehbi Akdoğan Tab Eklentisi, jQuery tab eklentisi  " />
+	<meta name="keyword" content="Vehbi Akdoğan Tab Eklentisi, jQuery tab eklentisi   " />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+	<meta name="author" content="Vehbi Akdogan" />
+	<link rel="stylesheet" href="style/style.css?v=1.0" />
+	<script type="text/javascript" src="http://vehbiakdogan.com/demolar/_jq.js"></script>
+	<script type="text/javascript" src="js/akdoganSlider.jquery.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			$("ul.akdoganSlider").akdoganSlider({
+				width:"1000px", // slider Genişlik default 100%
+				height:"500px", // slider Yükseklik default 100%
+				ileriGeriOk :true, // ileri Geri Nesneleri Görünsünmü ? true/false
+				geriOkHtml: "Geri Git", // geri ok html
+				ileriOkHtml: "İleri Git", // ileri ok html
+				noktaHtml : "&spades;", // alt nokta html
+				autoPlay: true
+			});
+			
+		});
+	</script>
+</head>
+<body>
+	<div class="ortala">
+		<ul class="akdoganSlider">
+			<li> <img src="images/1.jpg" alt="" /> <p> İçerik Yazısı </p></li>
+			<li> <img src="images/2.jpg" alt="" /> <p> İçerik Yazısı </p></li>
+			<li> <img src="images/3.jpg" alt="" /> <p> İçerik Yazısı </p></li>
+		</ul>
+	</div>
+</body>
+</html>
+
+
