@@ -48,7 +48,7 @@ jQuery slider Eklentisi
 <ul>
 <li> <b>width:</b> Sliderin genişliğini belirtir. Default Değeri 100%</li>
 <li> <b>height:</b> Sliderin yüksekliğini belirtir. Default Değeri 100%</li>
-<li> <b>ileriGeriOk:</b>ileri Geri Okların Gösterilip Gösterilmeyeceğini Belirtir. Alabileceği değerler <b>True/False</b>. Default değeri <b>True</b.</li>
+<li> <b>ileriGeriOk:</b>ileri Geri Okların Gösterilip Gösterilmeyeceğini Belirtir. Alabileceği değerler <b>True/False</b>. Default değeri <b>True</b>.</li>
 <li> <b>geriOkHtml:</b> Geri Okunun Htmlini belirtir Default Değeri <b>"Geri"</b> Dir. html kodu kullanabilirsiniz.</li>
 <li> <b>ileriOkHtml:</b> İleri Okunun Htmlini belirtir Default Değeri <b>"İleri"</b> Dir. html kodu kullanabilirsiniz.</li>
 <li> <b>noktaHtml:</b> Slider sayısını gösteren noktalardır. boş bırakırsanız sayı olarak görünecektir..</li>
