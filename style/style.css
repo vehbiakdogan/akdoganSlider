@@ -1,0 +1,87 @@
+/**
+* 	@author: Vehbi AKDOGAN
+* 	@mail: mf.leqelyy@gmail.com || info@vehbiakdogan.com
+* 	@website: vehbiakdogan.com
+* 	@office: ajansorkestra.com
+*/
+*,body {
+	padding:0;
+	border:0;
+	margin:0;
+	font-weight: normal;
+}
+a,img {
+	border:0;
+	text-decoration:none;
+}
+ul {
+	padding:0;
+	margin:0;
+}
+ul li {
+	list-style:none;
+}
+.temizle {
+	clear:both;
+}
+.ortala {
+	width:1000px;
+	margin:0 auto;
+}
+
+/* slider Kodları Başlangıç */
+ul.akdoganSlider {
+	overflow: hidden;
+	width:100%;
+	height: 100%;
+}
+ul.akdoganSlider li {
+	position: relative;
+	float:left;
+}
+
+ul.akdoganSlider li p {
+	position: absolute;
+	bottom:2%;
+	left:0;
+	padding:5px 15px;
+	background: rgba(255,255,0,.5);
+	font-weight: bold;
+	font-size: 40px;
+	z-index:1;
+}
+.akdoganSliderNokta {
+	position: absolute;
+	bottom:2%;
+	left:50%;
+}
+.akdoganSliderNokta a {
+	float:left;
+	padding:5px;
+	text-decoration: none;
+	color:#555;
+	border:1px solid #000;
+	margin-left:5px;
+}
+.akdoganSliderNokta a.aktif {
+	background: #000;
+	color:#fff;
+}
+.akdoganSliderOklar {
+	position: absolute;
+	top:50%;
+	margin-top:-20px;
+	width:100%;
+}
+.akdoganSliderOklar a {
+	font:bold 16px arial;
+	color:#555;
+}
+a.geriOk {
+	float:left;
+	margin-left:10px;
+}
+a.ileriOk {
+	float:right;
+	margin-right:10px;
+}
