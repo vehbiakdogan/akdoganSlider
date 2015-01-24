@@ -53,3 +53,6 @@ jQuery slider Eklentisi
 <li> <b>ileriOkHtml:</b> İleri Okunun Htmlini belirtir Default Değeri <b>"İleri"</b> Dir. html kodu kullanabilirsiniz.</li>
 <li> <b>noktaHtml:</b> Slider sayısını gösteren noktalardır. boş bırakırsanız sayı olarak görünecektir..</li>
 <li> <b>autoPlay:</b>Sliderin Otomatik olarak Dönmesini Gösterir. alabileceği değerler <b>true/false</b>. Default Değeri <b>false</b>. </li>
+
+
+<a href="http://vehbiakdogan.com/demolar/akdoganSlider/" target="_blank"><h2>DEMO</h2></a>
