@@ -55,4 +55,4 @@ jQuery slider Eklentisi
 <li> <b>autoPlay:</b>Sliderin Otomatik olarak Dönmesini Gösterir. alabileceği değerler <b>true/false</b>. Default Değeri <b>false</b>. </li>
 
 
-<a href="http://vehbiakdogan.com/demolar/akdoganSlider/" target="_blank"><h2>DEMO</h2></a>
+<a href="http://vehbiakdogan.com/demolar/akdoganSlider/" target="_blank">DEMO</a>
